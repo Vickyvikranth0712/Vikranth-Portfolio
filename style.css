@@ -1,0 +1,174 @@
+/* Basic Reset 
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    color: #333;
+    background-color: #f9f9f9;
+  }
+  nav{
+    background-color: black;
+    display: flex;
+    float: right;
+  }
+    */
+  
+  /* Header
+  header {
+    background: #fff;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .nav-links {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    margin: 0;
+    padding: 0;
+    float: left;
+  }
+  
+  .nav-links a {
+    text-decoration: none;
+    color: #333;
+    padding: 9px;
+    display: block;
+  }
+     */
+  
+  /* Hero Section 
+  .hero {
+    text-align: center;
+    padding: 60px 20px;
+  }
+  
+  .hero h1 {
+    font-size: 2.5em;
+    color: #333;
+  }
+  
+  .social-icons {
+    margin-top: 10px;
+  }
+    */
+  
+  /* About Section 
+  .about {
+    display: flex;
+    align-items: center;
+    padding: 40px 20px;
+    background: #fff;
+    text-align: justify;
+  }
+  
+  .about .profile-img {
+    width: 150px;
+    border-radius: 8px;
+    margin-right: 20px;
+  }
+    */
+  
+  /* Skills Section 
+  .skills {
+    padding: 40px 20px;
+    background: #f0f8ff;
+    text-align: center;
+  }
+  
+  .skills-icons {
+    display: flex;
+    gap: 1px;
+    justify-content: center;
+  }
+  .html5{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+  }
+  .css{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+  }
+  .python{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+  }
+  .ardiuno{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+  }
+  .bootstrap{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+  }
+    */
+  /* Experience Section 
+  .experience {
+    padding: 40px 20px;
+    background: #fff;
+  }
+    */
+  
+  /* Projects Section 
+  .projects {
+    padding: 40px 20px;
+    background: #f9f9f9;
+  }
+  
+  .project-card {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin-bottom: 15px;
+  }
+  */
+  /* Testimonials Section
+  .testimonials {
+    padding: 40px 20px;
+    background: #fff;
+    text-align: center;
+  }
+  
+  .testimonial {
+    margin-bottom: 20px;
+  }
+   */
+  /* Contact Section 
+  .contact {
+    padding: 40px 20px;
+    background: #f0f8ff;
+    text-align: center;
+  }*/
+  
+  /* Footer 
+  footer {
+    padding: 20px;
+    background: #333;
+    color: #fff;
+    text-align: center;
+  }
+  */
+#about{
+  width: 100%;
+  height: 100%;
+  padding: 0%;
+  margin: 0%;
+}
+#cont{
+  width: 100%;
+  height: 100%;
+}
